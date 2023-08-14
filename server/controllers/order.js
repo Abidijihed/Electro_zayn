@@ -170,7 +170,6 @@ module.exports = {
 
     // Execute the query to confirm the order
     connection.query(query, [id], (err, result) => {
-      console.log(req.body)
       if (err) {
         console.error(err);
         res.status(500).send(err);

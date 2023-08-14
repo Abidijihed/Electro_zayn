@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /private/
-Allow: /public/
-Disallow: /admin/
-
-User-agent: Googlebot
-Disallow: /restricted/

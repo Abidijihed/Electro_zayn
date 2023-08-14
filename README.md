@@ -1,1 +1,1 @@
-# Electro_zayn
+# Electrozayn
