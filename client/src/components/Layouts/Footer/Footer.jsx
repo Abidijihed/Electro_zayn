@@ -92,15 +92,15 @@ const Footer = () => {
             <div className="w-full sm:w-5/12 my-6 mx-5 sm:mx-0 flex flex-col sm:flex-row gap-2 sm:gap-0 justify-between">
               <div className="w-full sm:w-1/2">
                 <h2 className="text-primary-grey">Mail Us:</h2>
-                <p className="mt-2 leading-5">test@test.fr
+                <p className="mt-2 leading-5">Electrozayne@gmail.com
                   
                 </p>
               </div>
 
               <div className="w-full sm:w-1/2">
                 <h2 className="text-primary-grey">Address:</h2>
-                <p className="mt-2 leading-5">tunis
-                  Telephone: <a className="text-primary-blue" href="tel:18002029898">xxxxx</a>
+                <p className="mt-2 leading-5">rue d'Athènes, 1 Rue de, Rue Piree, Tunis 1001
+                  Telephone: <a className="text-primary-blue" href="tel:18002029898">+216 51 511 966</a>
                 </p>
               </div>
             </div>
